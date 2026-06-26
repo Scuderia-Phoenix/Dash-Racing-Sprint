@@ -1,0 +1,26 @@
+{
+  "name": "dash-racing-sprint",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.x.x",
+    "framer-motion": "^10.x.x",
+    "lucide-react": "^0.x.x",
+    "@splinetool/react-spline": "^2.x.x"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.x.x",
+    "typescript": "^5.x.x",
+    "tailwindcss": "^3.x.x",
+    "postcss": "^8.x.x",
+    "autoprefixer": "^10.x.x"
+  }
+}
